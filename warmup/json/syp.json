@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Swan Yi Phyo",
+        "age": 22,
+        "isMale": true,
+        "isMarried": false,
+        "Location": "Chiang Rai, Thailand",
+        "hobby": [
+            "Golfing",
+            "Gaming",
+            "Soccer"
+        ]
+    },
+    {
+        "name": "Nuttaphon Phyo",
+        "age": 22,
+        "isMale": false,
+        "isMarried": false,
+        "Location": "Chiang Mai, Thailand",
+        "hobby": [
+            "Golfing",
+            "Gambling",
+            "Soccer"
+        ]
+    }
+]
