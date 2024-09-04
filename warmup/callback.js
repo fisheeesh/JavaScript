@@ -14,8 +14,11 @@ let getTodos = (resource, callback) => {
   request.send();
 };
 
-//callback hell - callback inside callback, it is hard to hide and reduce performance
-//avoid using callback hell
+/**
+ * callback hell - callback inside callback, it is hard to hide and reduce application performance
+ * avoid using callback hell
+ * to overcome this we use promise
+ */
 getTodos("../warmup/json/syp.json",(data, err) => {
   if (data) {
     console.log(data)

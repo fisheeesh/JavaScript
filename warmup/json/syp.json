@@ -22,5 +22,17 @@
             "Gambling",
             "Soccer"
         ]
+    },
+    {
+        "name": "Swan Yi Phyo",
+        "age": 22,
+        "isMale": true,
+        "isMarried": false,
+        "Location": "Chiang Rai, Thailand",
+        "hobby": [
+            "Golfing",
+            "Gaming",
+            "Soccer"
+        ]
     }
 ]
