@@ -5,3 +5,5 @@ fetch("../warmup/json/sydfp.json")
 })
 .then(data => console.log(data))
 .catch(error => console.log(error.message))
+
+console.log('git branch test')
