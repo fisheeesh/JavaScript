@@ -6,4 +6,6 @@ let projects = [
 
 let project = projects.find(project => project.id === 1)
 
+project.id = 11
 console.log(project)
+console.log(projects)
